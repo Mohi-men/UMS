@@ -1,0 +1,38 @@
+.........................STUDENTSINFORMATION.............................
+[NEW STUDENT ADDED]
+.....................
+STUDENT NAME - Mashwd
+STUDENT ID   - 123
+[COURSES :]
+.....................
+Course NUMBER: 1
+Course NUMBER: 2
+Course NUMBER: 3
+.........................FACULTYSINFORMATION.............................
+.........................STUDENTSINFORMATION.............................
+[NEW STUDENT ADDED]
+.....................
+STUDENT NAME - Mashwd
+STUDENT ID   - 123
+[COURSES :]
+.....................
+Course NUMBER: 3001
+Course NUMBER: 3002
+Course NUMBER: 3003
+Course NUMBER: 3004
+Course NUMBER: 3005
+[EXISTING STUDENT REMOVED]
+.....................
+STUDENT NAME - Mashwd
+STUDENT  ID  - 123
+    
+.........................STUDENTSINFORMATION.............................
+[NEW STUDENT ADDED]
+.....................
+STUDENT NAME - m
+STUDENT ID   - 12
+[COURSES :]
+.....................
+Course NUMBER: 1
+Course NUMBER: 2
+    

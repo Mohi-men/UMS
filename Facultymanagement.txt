@@ -1,0 +1,25 @@
+
+[NEW FACULTY ADDED]
+.....................
+FACULTY NAME - Mashwd
+FACULTY  ID  - 13-3455-23
+SALARY       - 12000.0
+    
+[EXISTING FACULTY REMOVED]
+.....................
+FACULTY NAME - Mashwd
+FACULTY  ID  - 13-3455-23
+SALARY       - 12000.0
+    
+[NEW FACULTY ADDED]
+.....................
+FACULTY NAME - Mashwd
+FACULTY  ID  - 123
+SALARY       - 22.0
+    
+[EXISTING FACULTY REMOVED]
+.....................
+FACULTY NAME - Mashwd
+FACULTY  ID  - 123
+SALARY       - 22.0
+    
